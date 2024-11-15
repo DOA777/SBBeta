@@ -49,7 +49,7 @@ sections.Section1:AddButton({
 	risky = false,
 	confirm = false, -- shows confirm button
 	callback = function()
-        loadstring(game:HttpGet("https://pastebin.com/raw/neLVDaNn",true))()   
+        loadstring(game:HttpGet("https://pastebin.com/raw/516BB1Hs",true))()   
 	end
 })
 
